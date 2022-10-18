@@ -2,7 +2,6 @@ body {
     background-color: rgb(29, 29, 29);
 }
 
-
 .img-logo {
     height: 50px;
 }
@@ -11,9 +10,11 @@ a.nav-link.active.text-white.fw-bold {
     background-color: goldenrod;
     /* opacity: 0.6; */
 }
-.custom-video{
+
+.custom-video {
     max-width: 100%;
 }
+
 .carousel-image {
     max-width: 100%;
     width: 100%;
@@ -26,7 +27,7 @@ a.nav-link.active.text-white.fw-bold {
     width: 100%;
 }
 
-.rated{
+.rated {
     color: gold;
 }
 
