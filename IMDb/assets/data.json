@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "movieTitle": "BLACK ADAM",
+        "movieRating": "9.5",
+        "movieDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt, tenetur.",
+        "URL": "assets/img/card_img_01.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/mkomfZHG5q4"
+    },
+    {
+        "id": 2,
+        "movieTitle": "BLACK PANTHER",
+        "movieRating": "9.8",
+        "movieDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt, tenetur.",
+        "URL": "assets/img/card_img_02.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/ZZDQJTZN0kc"
+    },
+    {
+        "id": 3,
+        "movieTitle": "BLACK WIDOW",
+        "movieRating": "9.7",
+        "movieDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam, deleniti?",
+        "URL": "assets/img/card_img_03.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/RxAtuMu_ph4"
+    },
+    {
+        "id": 4,
+        "movieTitle": "POWER RANGERS",
+        "movieRating": "9.8",
+        "movieDescription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, vero!",
+        "URL": "assets/img/card_img_04.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/5kIe6UZHSXw"
+    },
+    {
+        "id": 1,
+        "movieTitle": "BLACK ADAM",
+        "movieRating": "9.5",
+        "movieDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt, tenetur.",
+        "URL": "assets/img/card_img_01.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/mkomfZHG5q4"
+    },
+    {
+        "id": 2,
+        "movieTitle": "BLACK PANTHER",
+        "movieRating": "9.8",
+        "movieDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt, tenetur.",
+        "URL": "assets/img/card_img_02.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/ZZDQJTZN0kc"
+    },
+    {
+        "id": 3,
+        "movieTitle": "BLACK WIDOW",
+        "movieRating": "9.7",
+        "movieDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam, deleniti?",
+        "URL": "assets/img/card_img_03.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/RxAtuMu_ph4"
+    },
+    {
+        "id": 4,
+        "movieTitle": "POWER RANGERS",
+        "movieRating": "9.8",
+        "movieDescription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, vero!",
+        "URL": "assets/img/card_img_04.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/5kIe6UZHSXw"
+    },
+    {
+        "id": 1,
+        "movieTitle": "BLACK ADAM",
+        "movieRating": "9.5",
+        "movieDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt, tenetur.",
+        "URL": "assets/img/card_img_01.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/mkomfZHG5q4"
+    },
+    {
+        "id": 2,
+        "movieTitle": "BLACK PANTHER",
+        "movieRating": "9.8",
+        "movieDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt, tenetur.",
+        "URL": "assets/img/card_img_02.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/ZZDQJTZN0kc"
+    },
+    {
+        "id": 3,
+        "movieTitle": "BLACK WIDOW",
+        "movieRating": "9.7",
+        "movieDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam, deleniti?",
+        "URL": "assets/img/card_img_03.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/RxAtuMu_ph4"
+    },
+    {
+        "id": 4,
+        "movieTitle": "POWER RANGERS",
+        "movieRating": "9.8",
+        "movieDescription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, vero!",
+        "URL": "assets/img/card_img_04.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/5kIe6UZHSXw"
+    },
+    {
+        "id": 1,
+        "movieTitle": "BLACK ADAM",
+        "movieRating": "9.5",
+        "movieDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt, tenetur.",
+        "URL": "assets/img/card_img_01.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/mkomfZHG5q4"
+    },
+    {
+        "id": 2,
+        "movieTitle": "BLACK PANTHER",
+        "movieRating": "9.8",
+        "movieDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt, tenetur.",
+        "URL": "assets/img/card_img_02.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/ZZDQJTZN0kc"
+    },
+    {
+        "id": 3,
+        "movieTitle": "BLACK WIDOW",
+        "movieRating": "9.7",
+        "movieDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam, deleniti?",
+        "URL": "assets/img/card_img_03.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/RxAtuMu_ph4"
+    },
+    {
+        "id": 4,
+        "movieTitle": "POWER RANGERS",
+        "movieRating": "9.8",
+        "movieDescription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, vero!",
+        "URL": "assets/img/card_img_04.jpg",
+        "movieTrailerURL": "https://www.youtube.com/embed/5kIe6UZHSXw"
+    }
+]
