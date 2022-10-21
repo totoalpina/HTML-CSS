@@ -1,7 +1,17 @@
 body {
+
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
     background-color: rgb(29, 29, 29);
 }
 
+main{
+    flex:1 0 auto;
+}
 .img-logo {
     height: 50px;
 }
